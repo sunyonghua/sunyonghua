@@ -3,8 +3,8 @@
 <!-- </a> -->
 
 ### 🔭 I’m currently working  ..
-- 🤣 前端野路子程序员
-- 👀 主要写点react、ts. 熟悉xxx等...
+- 🌱 前端野路子程序员
+- 🤔 主要写点react、ts. 熟悉xxx等...
 - 🌈 也对swift、python、java等感兴趣
 - 🤝 欢迎交流哦
 
