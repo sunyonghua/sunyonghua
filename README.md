@@ -1,4 +1,4 @@
-  <img align="right" src="https://metrics.lecoq.io/sunyonghua?template=terminal&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&followup=1&followup.sections=repositories&config.timezone=Asia%2FShanghai" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=sunyonghua&show_icons=true&count_private=true" />
 
 ### 🔭 I’m currently working  ..
 - 🌱 前端野路子程序员
