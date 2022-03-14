@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=sunyonghua&show_icons=true&count_private=true" />
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=sunyonghua&show_icons=true&count_private=true" /> -->
 
 ### 🔭 I’m currently working  ..
 - 🌱 前端野路子程序员
