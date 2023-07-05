@@ -3,7 +3,7 @@
 ### 🔭 I’m currently working  ..
 - 🌱 前端野路子程序员
 - 🤔 主要写点react、ts、node.js 熟悉electron等...
-- 🌈 也对swift、python、java等感兴趣
+- 🌈 渐入后端语言中...
 - 🤝 欢迎交流哦
 
 <!--   <img align="right" src="https://github-readme-stats.vercel.app/api?username=sunyonghua&show_icons=true&count_private=true" /> -->
